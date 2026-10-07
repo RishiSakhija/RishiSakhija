@@ -35,8 +35,8 @@ I'm a **Computer Engineering student** who learns by building. I'm excited to ex
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🧠 [**Tech Intelligent Engine**](https://github.com/RishiSakhija/tech-intelligence-engine) | [A personalized vertical search and intelligence engine for discovering, understanding, and tracking the rapidly changing technology ecosystem] | Python, [Python, FastAPI, PostgreSQL, OpenSearch, Qdrant, Redis, Next.js] |
-| 📚 [**Virtual Shelf**](https://github.com/RishiSakhija/virtual-shelf) | [Turns YouTube lectures into structured, editable notebook-style notes with auto-generated diagrams, organized into a personal digital library] | [Python, FastAPI, Gemini API, Mermaid.js, HTML/CSS/JS] |
+| 🧠 [**Tech Intelligent Engine**](https://github.com/RishiSakhija/tech-intelligence-engine) | A personalized vertical search and intelligence engine for discovering, understanding, and tracking the rapidly changing technology ecosystem | Python, FastAPI, PostgreSQL, OpenSearch, Qdrant, Redis, Next.js |
+| 📚 [**Virtual Shelf**](https://github.com/RishiSakhija/virtual-shelf) | Turns YouTube lectures into structured, editable notebook-style notes with auto-generated diagrams, organized into a personal digital library | Python, FastAPI, Gemini API, Mermaid.js, HTML/CSS/JS|
 
 *More projects coming soon as I keep building.* 🔨
 
