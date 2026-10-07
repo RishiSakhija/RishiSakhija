@@ -1,8 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishi%20Sakhija&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishi%20Sakhija&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20Automation%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+projects+%26+exploring+new+tech;Learning+DSA+%2B+Agentic+AI+%2B+ML;Future+AI+Engineer+%26+Startup+Co-Founder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+projects+%26+exploring+new+tech;Learning+DSA+%2B+Agentic+AI+%2B+ML;Crafting+Prompts+%26+Automating+Workflows;Future+AI+Engineer+%26+Startup+Co-Founder" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=RishiSakhija&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RishiSakhija?style=for-the-badge&logo=github&logoColor=white&color=302b63&labelColor=0f0c29)
 
 </div>
 
@@ -10,10 +15,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** who learns by building. I'm excited to explore everything in tech, especially **AI, agentic systems, and automation**, and turn ideas into real projects.
+I'm a **Computer Engineering student** who learns by building. I'm excited to explore everything in tech, especially **AI, agentic systems, prompt engineering, and automation**, and turn ideas into real projects.
 
 - 🔭 **Building:** AI-powered projects and automations
-- 🌱 **Learning:** DSA, Agentic AI, and Machine Learning
+- 🌱 **Learning:** DSA, Agentic AI, Prompt Engineering, and Machine Learning
 - 🎯 **Goal:** AI Engineer and startup co-founder
 - 📫 **Open to:** collaborations, learning opportunities, and new ideas
 
@@ -21,13 +26,28 @@ I'm a **Computer Engineering student** who learns by building. I'm excited to ex
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
 
-**Exploring:** Agentic AI frameworks · LLM APIs · Machine Learning · Automation workflows
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,nextjs,js,html,css&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+**AI & Automation**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+</div>
+
+**Exploring:** Agentic AI frameworks · Prompt Engineering · LLM APIs · Machine Learning · Automation workflows
 
 ---
 
@@ -36,7 +56,7 @@ I'm a **Computer Engineering student** who learns by building. I'm excited to ex
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🧠 [**Tech Intelligent Engine**](https://github.com/RishiSakhija/tech-intelligence-engine) | A personalized vertical search and intelligence engine for discovering, understanding, and tracking the rapidly changing technology ecosystem | Python, FastAPI, PostgreSQL, OpenSearch, Qdrant, Redis, Next.js |
-| 📚 [**Virtual Shelf**](https://github.com/RishiSakhija/virtual-shelf) | Turns YouTube lectures into structured, editable notebook-style notes with auto-generated diagrams, organized into a personal digital library | Python, FastAPI, Gemini API, Mermaid.js, HTML/CSS/JS|
+| 📚 [**Virtual Shelf**](https://github.com/RishiSakhija/virtual-shelf) | Turns YouTube lectures into structured, editable notebook-style notes with auto-generated diagrams, organized into a personal digital library | Python, FastAPI, Gemini API, Mermaid.js, HTML/CSS/JS |
 
 *More projects coming soon as I keep building.* 🔨
 
@@ -57,6 +77,7 @@ I'm a **Computer Engineering student** who learns by building. I'm excited to ex
 
 - [x] Python and FastAPI fundamentals
 - [x] Automation with n8n
+- [ ] Prompt Engineering
 - [ ] Data Structures and Algorithms
 - [ ] Building agentic AI projects
 - [ ] Machine Learning foundations
@@ -67,11 +88,11 @@ I'm a **Computer Engineering student** who learns by building. I'm excited to ex
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishisakhija)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishisakhija)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishisakhija7@gmail.com)
 
 *"Build more. Learn everything. Ship it."* ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
